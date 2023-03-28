@@ -1,1 +1,1 @@
-.Requirement: Run xampp and 
+.Requirement: Run xampp
